@@ -42,7 +42,7 @@ CREATE TABLE IF NOT EXISTS full_table (
     by TEXT,
     score INTEGER,
     time INTEGER,
-    timestamp TEXT,
+    timestamp TIMESTAMP,
     title TEXT,
     type TEXT,
     url TEXT,
